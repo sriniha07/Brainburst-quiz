@@ -17,4 +17,6 @@ An interactive and stylish quiz application built with HTML, CSS, and JavaScript
 ✅ Polished UI with animated gradient background
 
 ✅ Mobile-friendly design
+🚀 Live Demo
+ Play it here 👉 https://sriniha07.github.io/Brainburst-quiz/
 
